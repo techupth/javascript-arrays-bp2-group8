@@ -1,10 +1,10 @@
 let colors = ["red", "green", "blue", "khaki", "orange"];
 
 // Start coding here
-let blueColor = colors[0];
-let fourthColor = colors[3];
-let fifthColor = colors[4];
-let tenthColor = colors[9];
+let blueColor = [2];
+let fourthColor = [3];
+let fifthColor = [4];
+let tenthColor = [9];
 
 console.log(blueColor);
 console.log(fourthColor);
